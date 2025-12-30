@@ -55,7 +55,7 @@ build_ffmpeg() {
 	fi
 	(make clean && make distclean) || true
 
-	EXTRA_VERSION="android-$type-[gh/tg]/KaluaBilla"
+	EXTRA_VERSION="android-$type-[gh/tg]/rhythmcache"
 	CONFIGURE_FLAGS=(
 		--enable-cross-compile
 		--prefix="$PREFIX"
