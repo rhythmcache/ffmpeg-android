@@ -222,7 +222,6 @@ FFmpeg is licensed under **GPL v3** due to enabled GPL-licensed libraries. Some 
 - **Android NDK**: https://developer.android.com/ndk
 - **Magisk**: https://github.com/topjohnwu/Magisk
 - **Termux**: https://termux.dev/
-- **Telegram Channel**: https://t.me/ffmpegandroid
 
 ## Contributing
 
